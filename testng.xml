@@ -1,0 +1,7 @@
+<suite name="Simulacro">
+    <test name="Ejercicios Testng">
+        <classes>
+            <class name="BookingTest"></class>
+        </classes>
+    </test>
+</suite>
