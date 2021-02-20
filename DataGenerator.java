@@ -5,9 +5,9 @@ public class DataGenerator {
     @DataProvider(name="emails")
     public Object[][] emailInfo(){
         return new Object[][] {
-                {"testing@test.com."},
-                {"testing"},
-                {"asdfasdfasdf"}
+                {"test@test.com"},
+                {"e.fraffo@hotmail.com"},
+                {"e.fraffo@gmail.com"}
         };
     }
 }

@@ -1,7 +1,8 @@
-<suite name="Simulacro">
+<suite name="Examen">
     <test name="Ejercicios Testng">
+        <parameter name="tagName" value="h1"></parameter>
         <classes>
-            <class name="BookingTest"></class>
+            <class name="prueba_netflix"></class>
         </classes>
     </test>
 </suite>
